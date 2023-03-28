@@ -1,4 +1,4 @@
-King County House Sales Analysis
+# King County House Sales Analysis
 This project analyzes the King County House Sales dataset to gain insights into the housing market of King County, with the goal of helping real estate agencies and property management companies make more informed business decisions.
 
 Business Understanding
@@ -28,8 +28,6 @@ In the future, additional features could be added to the dataset, such as the pr
 
 Contact Information
 For any questions or feedback, please contact [insert your contact information here].
-
-
 
 
 
