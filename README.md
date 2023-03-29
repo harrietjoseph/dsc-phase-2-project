@@ -1,8 +1,11 @@
 ###1. BUSINESS UNDERSTANDING
-Stakeholder:
+
+###Stakeholder:
+
 The stakeholder for this dataset could be a real estate agency or a property management company that deals with buying, selling, and renting houses in King County. They might be interested in analyzing this dataset to gain insights into the housing market of the county and improve their business decisions and also give accurate advice to homeowners on how to increase the value of their homes and by what amount
 
 ###Business problem:
+
 The business problem that this stakeholder might face is determining the factors that influence house prices in the county. By understanding these factors, they could price their properties more accurately, invest in the right locations, and negotiate better deals with buyers and sellers. The stakeholder might also be interested in identifying the most desirable neighborhoods and property features that attract buyers and renters, so that they can focus their marketing efforts and increase their sales and revenue. In summary, the stakeholder wants to use regression modeling to predict house prices and gain insights into the factors that affect house values in King County.
 
 This project uses the King County House Sales dataset, which can be found in kc_house_data.csv and description of the column names can be found in column_names.md.
